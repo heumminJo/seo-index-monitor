@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+seo_report_*.csv
+*.log
+browser_profile/
+debug_screenshot/
+reports/
+sitemap_cache/
+sitemap_history.json

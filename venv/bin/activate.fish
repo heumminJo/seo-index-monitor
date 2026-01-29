@@ -30,7 +30,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/joheummin/.gemini/antigravity/scratch/seo-checker-tool/venv"
+set -gx VIRTUAL_ENV "/Users/joheummin/work/seo-index-monitor/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

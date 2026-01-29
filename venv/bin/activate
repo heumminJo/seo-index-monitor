@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/joheummin/.gemini/antigravity/scratch/seo-checker-tool/venv"
+VIRTUAL_ENV="/Users/joheummin/work/seo-index-monitor/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

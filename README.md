@@ -14,7 +14,7 @@
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-pip install requests beautifulsoup4 lxml
+pip install -r requirements.txt
 ```
 
 ### 2. 도구 실행
